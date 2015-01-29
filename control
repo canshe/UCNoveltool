@@ -1,0 +1,9 @@
+Package: com.canshe.ucnoveltool
+Name: UCNovelTool
+Depends: 
+Version: 0.4.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: canshe
+Author: canshe
+Section: Utilities
